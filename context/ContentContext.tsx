@@ -24,7 +24,7 @@ export const defaultContent = {
     "badge": "Accélération Marketing B2B & PME",
     "headlineMain": "Externalisez votre",
     "headlineAccent": "Direction Marketing",
-    "subheadline": "Un abonnement senior pour les dirigeants qui veulent des résultats, pas des excuses. Stratégie IA, contenus multicanaux et exécution 48h.",
+    "subheadline": "Un abonnement marketing senior pour les dirigeants qui veulent des résultats sans attendre. Stratégie IA, contenus multicanaux et exécution express.",
     "ctaEligibility": "Lancer mon Diagnostic de Capacité",
     "ctaMicroCopy": "Évaluez vos besoins RH et Production en 2 min."
   },
@@ -40,7 +40,7 @@ export const defaultContent = {
       "Stratégie de Contenu",
       "Lead Gen B2B"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=2000&auto=format&fit=crop"
+    "imageUrl": "https://lh3.googleusercontent.com/d/1Xl2N9tN-E5D3S5f-8h_v-L-v0X2N9tN-E"
   },
   "philosophy": {
     "text": "Ma conviction est simple : une PME n'a pas besoin de 'plus de bras', elle a besoin d'un meilleur cerveau marketing. MarketingJoy est conçu pour être ce cerveau : agile, technique, et focalisé sur une seule chose : décharger le dirigeant pour qu'il se concentre sur sa vision."
@@ -173,7 +173,8 @@ export const defaultContent = {
     "headline": "Arrêtez de gérer votre marketing.",
     "subheadline": "Commencez à piloter votre croissance.",
     "desc": "Vérifions ensemble en 15 minutes si votre structure est prête pour l'accélération MarketingJoy.",
-    "cta": "Réserver mon Audit Stratégique"
+    "cta": "Réserver mon Audit Stratégique",
+    "calendarUrl": "https://calendar.app.google/zSC4G63S5SvC2tYw8"
   },
   "faq": {
     "title": "Précisions techniques",
