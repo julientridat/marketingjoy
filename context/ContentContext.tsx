@@ -24,7 +24,7 @@ export const defaultContent = {
     "badge": "Accélération Marketing B2B & PME",
     "headlineMain": "Externalisez votre",
     "headlineAccent": "Direction Marketing",
-    "subheadline": "Un abonnement marketing senior pour les dirigeants qui veulent des résultats sans attendre. Stratégie IA, contenus multicanaux et exécution express.",
+    "subheadline": "Un abonnement senior pour les dirigeants qui veulent des résultats, sans attendre. Stratégie IA, contenus multicanaux et exécution 48h.",
     "ctaEligibility": "Lancer mon Diagnostic de Capacité",
     "ctaMicroCopy": "Évaluez vos besoins RH et Production en 2 min."
   },
